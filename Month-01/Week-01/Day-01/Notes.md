@@ -17,7 +17,7 @@ It is called so cause it connects million of smaller networks( home, office, uni
 
 ## Example 
 When I search anything on browser like google, it sends request through Internet to Google's server and receives response from the server to browser through the same internet 
----
+
 # 2. Website 
 
 ## Definition  
@@ -29,15 +29,15 @@ Google, github, Amazon, youtube
 ## Type >> Static and Dynamic Website 
 
 ### Static Website 
--Same content for each user 
--Does not change frequently 
--Mostly information purpose like portfolio 
+- Same content for each user 
+- Does not change frequently 
+- Mostly information purpose like portfolio 
 
 ### Dynamic Website 
--It change i.e. content according to the use of the user 
--Uses database and server side processing 
--Like amazon >> adding item in cart, payment, etc
----
+- It change i.e. content according to the use of the user 
+- Uses database and server side processing 
+- Like amazon >> adding item in cart, payment, etc
+
 
 # 3. Web Application 
 It is software that runs on web browser and allows user to perform tasks.
@@ -49,28 +49,29 @@ A website mainly provides information, while a web application allows users to i
 Every web application is accessed through a website, but not every website is a web application.
 
 # 4. Client
+
 ## Definition 
 A client is a way that sends request to a server.
 Web Browser, Mobile app, Postman, Playwright  
 
 **The client always initiates communication.**
----
+
 
 # 5. Server 
 ## Definition
 It is a computer or software that receives client request, processes them and sends back responses
 
 ### Server Responsibilities 
--Receive REquest 
--Process REquest 
--Access Database if required 
--Send Response 
+- Receive REquest 
+- Process REquest 
+- Access Database if required 
+- Send Response 
 
 ## Examples
--GMail Server
--Amazon Server 
--Airline Booking Server
----
+- GMail Server
+- Amazon Server 
+- Airline Booking Server
+
 
 ## Client–Server Architecture Diagram
 
@@ -82,15 +83,14 @@ It is a computer or software that receives client request, processes them and se
 The frontend is the part of the software or app which user can see and interact with, runs on client
 
 ## Technologies used 
--HTML >> Structure
--CSS >> Styling 
--JavaScript >> Functionality( Interactivity)
+- HTML >> Structure
+- CSS >> Styling 
+- JavaScript >> Functionality( Interactivity)
 
 ## Runs In 
 Web Browser 
 
 **Everything the user sees belongs to the Frontend**
----
 
 # 7. BackEnd 
 
@@ -98,20 +98,20 @@ Web Browser
 It is the part where the application processes request, manage data, runs on server
 
 ### Responsibilities
--Business Logic 
--Database
--Authentication
--API
+- Business Logic 
+- Database
+- Authentication
+- API
 
 **Everything the user does not directly see belongs to the backend**
----
+
 
 # 8. Request and Response 
 
 ## Request and Response LifeCycle 
 
 Browser - > internet -> Server -> Database -> Server -> Browser 
----
+
 
 ### Request
 The Browser >> client sends a request to the server asking for information or a service 
